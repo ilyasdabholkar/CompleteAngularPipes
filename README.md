@@ -1,27 +1,41 @@
-# FirstApp
+# Angular Pipes Examples
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.7.
+This repository showcases examples and demonstrations of working with Angular pipes to manipulate and transform data.
 
-## Development server
+## Using Pipes
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Explore the basics of using built-in pipes in Angular to format and transform data.
 
-## Code scaffolding
+## Parametrizing Pipes
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Learn how to parameterize built-in pipes to customize their behavior based on specific requirements.
 
-## Build
+## Chaining Multiple Pipes
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Combine multiple pipes to create powerful transformations by chaining them together.
 
-## Running unit tests
+## Creating a Custom Pipe
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Understand the process of creating custom pipes to suit your specific data manipulation needs.
 
-## Running end-to-end tests
+## Parametrizing a Custom Pipe
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Extend the functionality of custom pipes by adding parameters to make them more versatile.
 
-## Further help
+## Creating a Filter Pipe
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Implement a custom filter pipe to selectively display or manipulate data based on certain criteria.
+
+## Pure and Impure Pipes
+
+Understand the concepts of pure and impure pipes and their impact on performance and behavior.
+
+---
+
+Feel free to explore each section for detailed examples and explanations.
+
+## Contributing
+
+If you find any issues or want to contribute to this project, please feel free to submit pull requests or open issues.
+
+Happy coding!
